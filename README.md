@@ -8,7 +8,7 @@ I'm currently open to junior fullstack developer roles. The quickest way to see 
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [Expenses Tracker](https://github.com/Polinamed57/Expenses-Tracker) | Web app for recording, categorizing and analyzing daily expenses. [Live demo](https://expenses-tracker-one-orpin.vercel.app) | React, TypeScript, Vite, Vercel |
+| [Expenses Tracker](https://github.com/Polinamed57/Expenses-Tracker) | Fullstack app for tracking monthly spending, budgets and savings goals, with AI expense categorization. [Live demo](https://expenses-tracker-one-orpin.vercel.app) | React, TypeScript, Supabase (PostgreSQL, Auth), Vercel Functions, Claude API |
 | [SkyCast Weather App](https://github.com/Polinamed57/Weather-App) | Weather dashboard with 5-day forecast, hourly trends, favorite cities, geolocation, dark mode. [Live demo](https://weather-app-knca.vercel.app/) | JavaScript, Vercel Serverless, OpenWeather API |
 | [Portfolio](https://github.com/Polinamed57/Portfolio) | Personal site with scroll animations and full responsive layout. [Live site](https://polina-kovalenko.vercel.app/) | React, TypeScript, Tailwind CSS, Framer Motion |
 | [Sandra's Bake House Catalog](https://github.com/Polinamed57/sandras-bake-house-catalog) | Freelance client project: redesigned a cookie startup's wholesale catalog, cut the PDF from 13.5 MB to 1.3 MB and fixed allergen labelling | HTML, CSS, Python, headless Chrome |
